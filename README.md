@@ -8,7 +8,3 @@ Including the [datasets](datasets/), [codes](src/), and an [appendix](other-mate
 
 #### Training
 Conventional fine-tuning: `bash run_conv.sh`
-
-(complete readme and code to-be-added)
-
-![](framework.png)
